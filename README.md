@@ -57,8 +57,7 @@ Some people build systems to feel secure. **I exist to prove them wrong.**
 
 ## Contact
 
-- **DM Me** if you’re serious: collaboration, consultation, or just to test if your system can handle what I build.  
-- **I’m not here to play games.** 😈  
+- **DM Me** if you’re serious: collaboration, consultation, or just to test if your system can handle what I build.
 
 ---
 
