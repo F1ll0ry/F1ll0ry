@@ -29,8 +29,8 @@ Some people build systems to feel secure. **I exist to prove them wrong.**
 - **🛠️ Malware as an Artform**  
   My tools don’t just exploit; they leave an impression. A payload named *"Eleanor Rigby"* or *"Blackbird"* isn’t just code—it’s a message.  
 
-- **A Nod to fsociety**  
-  Systems are meant to be questioned. Sometimes they need to fall apart before they can evolve.  
+- **fsociety**  
+  Doesn't it?
 
 ---
 
